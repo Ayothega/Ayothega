@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ayothega/Ayothega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧑‍💻 Full-Stack Developer  
+**Building scalable web apps with clean architecture and reliable code.**  
 
-Here are some ideas to get you started:
+✨ Minimal • ⚙️ Efficient • 🌑 Dark-mode tuned
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+**Frontend:** ⚛️ Next.js • React • React Native • TypeScript  
+**Backend:** 🧩 Node.js • Express • Prisma  
+**Database:** 🗄️ PostgreSQL • MongoDB  
+
+---
+
+## 🛠 What I Do
+I create full-stack applications with a focus on:
+
+- ⚡ Performance  
+- 🧼 Clean, maintainable code  
+- 🧠 Developer experience  
+- 🔍 Clear architecture  
+
+I enjoy transforming abstract ideas into real systems and polishing them until they run smooth and intentional.
+
+---
+
+<div align="center">
+
+🌙 `// end of transmission`  
+💻 `// ready for next build...`  
+
+</div>
