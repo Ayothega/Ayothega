@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Full-Stack Developer  
+# 🧑‍💻 Frontend/Fullstack Developer  
 **Building scalable web apps with clean architecture and reliable code.**  
 
 ✨ Minimal • ⚙️ Efficient • 🌑 Dark-mode tuned
@@ -13,7 +13,7 @@
 
 ## ⚡ Tech Stack
 **Frontend:** ⚛️ Next.js • React • React Native • TypeScript  
-**Backend:** 🧩 Node.js • Express • Prisma  
+**Backend:** 🧩 Supabase • Prisma  
 **Database:** 🗄️ PostgreSQL • MongoDB  
 
 ---
