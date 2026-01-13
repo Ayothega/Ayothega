@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍💻 Frontend/Fullstack Developer  
+# 🧑‍💻 Fullstack Developer  
 **Building scalable web apps with clean architecture and reliable code.**  
 
 ✨ Minimal • ⚙️ Efficient • 🌑 Dark-mode tuned
