@@ -13,7 +13,7 @@
 
 ## ⚡ Tech Stack
 **Frontend:** ⚛️ Next.js • React • React Native • TypeScript  
-**Backend:** 🧩 Supabase • Prisma  
+**Backend:** 🧩 Express.js • Nest.js • Supabase • Prisma  
 **Database:** 🗄️ PostgreSQL • MongoDB  
 
 ---
